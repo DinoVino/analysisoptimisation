@@ -8,6 +8,7 @@ wheels/
 
 # Data related ignores
 datasets/
+datasets2/
 documentation/
 # Virtual environments
 .venv
